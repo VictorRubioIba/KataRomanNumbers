@@ -1,0 +1,10 @@
+
+o
+java:S1104"RMake arabic a static final constant or non-public and provide accessors if needed.(àŞÂç8ÈşÁ¢‹1
+s
+java:S1104"QMake roman a static final constant or non-public and provide accessors if needed.(‰·†æûÿÿÿÿ8ÉşÁ¢‹1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ßçŒ
+@
+java:S3066"#Lower the visibility of this field.(àŞÂç8ÊşÁ¢‹1
+E
+java:S3066"#Lower the visibility of this field.(‰·†æûÿÿÿÿ8ÊşÁ¢‹1
